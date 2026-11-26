@@ -29,7 +29,7 @@ const CONFIANZA_MINIMA = 0.8;
 
 
 /* PASO 4: reseñas de ejemplo */
-const RESENAS_DE_EJEMPLO = true;
+const RESENAS_DE_EJEMPLO = false;
 
 const resenas = {
   1: [
